@@ -1,6 +1,5 @@
 
 import json
-# Python Random module is an in-built module of Python which is used to generate random numbers. 
 import random
 # No echo input ( passwords aren't shown )
 import getpass
